@@ -10,9 +10,22 @@
 
 ---
 
-## 个人简介
+## 自我评价
 
 资深ERP开发，拥有超过7年在跨境电商行业的经验。擅长设计高可用、高性能和可扩展的系统架构，熟悉主流电商平台和技术栈。具有出色的问题解决能力和团队协作精神，致力于推动技术创新和业务增长。
+
+---
+
+## 专业技能
+
+- **编程语言**: Java, Python, C#, Go, JavaScript, TypeScript
+- **技术栈**: Spring Boot, Spring Cloud, MyBatis, Node.js
+- **数据库**: MySQL, SQLServer, MongoDB, Redis
+- **大数据**: ElasticSearch, ClickHouse, Doris, Flink
+- **消息队列**: Kafka, RabbitMQ  
+- **云服务**: 阿里云
+- **架构模式**: 微服务架构, RESTful API
+- **工具和平台**: Docker, Kubernetes, Jenkins, Git
 
 ---
 
@@ -84,7 +97,7 @@
 ## 项目经验
 
 ### 进销存项目
-**日期: 2022年1月 - 2022年12月**
+**日期: 2024年5月 - 2024年8月**
 
 - 项目描述: 设计并实现了一个高可用、高性能的系统架构，以支持全球购物节期间的大量用户访问和交易。
 - 责任和贡献: 领导架构设计，选择技术栈，指导团队开发和部署，进行性能调优和故障排查。
@@ -105,19 +118,6 @@
 - 学历: 全日制本科 
 - 专业: 软件工程 
 - 日期: 2010年9月 - 2014年6月
-
----
-
-## 技能
-
-- **编程语言**: Java, Python, C#, Go, JavaScript, TypeScript
-- **技术栈**: Spring Boot, Spring Cloud, MyBatis, Node.js
-- **数据库**: MySQL, SQLServer, MongoDB, Redis
-- **大数据**: ElasticSearch, ClickHouse, Doris, Flink
-- **消息队列**: Kafka, RabbitMQ  
-- **云服务**: 阿里云
-- **架构模式**: 微服务架构, RESTful API
-- **工具和平台**: Docker, Kubernetes, Jenkins, Git
 
 ---
 
