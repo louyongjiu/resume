@@ -108,11 +108,13 @@
 
 ## 技能
 
-- **编程语言**: Java, Python, JavaScript
-- **技术栈**: Spring Boot, Node.js, React
-- **数据库**: MySQL, MongoDB, Redis
-- **云服务**: AWS, Azure, Google Cloud
-- **架构模式**: 微服务架构, RESTful API, SOA
+- **编程语言**: Java, Python, C#, Go, JavaScript, TypeScript
+- **技术栈**: Spring Boot, Spring Cloud, MyBatis, Node.js
+- **数据库**: MySQL, SQLServer, MongoDB, Redis
+- **大数据**: ElasticSearch, ClickHouse, Doris, Flink
+- **消息队列**: Kafka, RabbitMQ  
+- **云服务**: 阿里云
+- **架构模式**: 微服务架构, RESTful API
 - **工具和平台**: Docker, Kubernetes, Jenkins, Git
 
 ---
@@ -122,3 +124,6 @@
 - 编程和技术研究
 - 户外运动
 - 阅读科技书籍
+- 研究AI大模型及其应用
+- 了解RAG（检索增强生成）技术
+- 探索AIGC（AI生成内容）技术
