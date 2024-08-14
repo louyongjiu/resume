@@ -16,9 +16,10 @@ body {
 }
 
 p {
-  margin-block-start: -1em;
-  margin-block-end: -1em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
+
 
 //@media print {
 //  .button-container {
