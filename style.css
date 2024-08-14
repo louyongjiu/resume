@@ -15,9 +15,9 @@ body {
   background-color: white;
 }
 
-.p {
-  margin-block-start: -1em !important;
-  margin-block-end: -1em !important;
+p {
+  margin-block-start: -1em;
+  margin-block-end: -1em;
 }
 
 //@media print {
