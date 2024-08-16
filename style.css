@@ -25,6 +25,11 @@ ul {
   margin-bottom: 0;
 }
 
+li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 //@media print {
 //  .button-container {
 //    display: none;
